@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syauqi Sabili</h1>
-<h3 align="center">A software engineer who love to write elegant code</h3>
+<h3 align="center">A software engineer who loves to write elegant code</h3>
 
 - 👨‍💻 All of my projects are available at [syauqisabili.github.io](syauqisabili.github.io)
 
