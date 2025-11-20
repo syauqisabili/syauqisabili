@@ -1,5 +1,5 @@
 <h1 align="center">Syauqi Sabili</h1>
-<h3 align="center">A man who loves to write elegant code</h3>
+<h3 align="center">A man who loves to code</h3>
 
 <h3 align="left">Projects:</h3>
 <ul>
